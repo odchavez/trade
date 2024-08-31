@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/trade/__init__.py
+src/trade/stocks.py
+src/trade.egg-info/PKG-INFO
+src/trade.egg-info/SOURCES.txt
+src/trade.egg-info/dependency_links.txt
+src/trade.egg-info/requires.txt
+src/trade.egg-info/top_level.txt
