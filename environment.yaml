@@ -1,0 +1,24 @@
+name: trade
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - notebook
+  - jupyterlab
+  - nbconvert
+  - nbclient
+  - jupyter_server
+
+ # - yfinance  # yfinance package
+  - pandas
+  - numpy
+  - tqdm 
+  - matplotlib
+  - plotly
+  - dash
+
+  - pip:
+    - yfinance
+ # - datetime  # datetime is part of Python's standard library but including it for reference
