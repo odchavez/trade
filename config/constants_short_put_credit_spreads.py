@@ -3,7 +3,7 @@ MARGIN = 0.1
 
 TICKERS = [
     "AAPL", "MSFT", "AMZN", "GOOGL", "GOOG", "FB", "TSLA", "BRK.B", "NVDA", "JPM",
-    "JNJ", "V", "UNH", "PG", "HD", "BAC", "DIS", "MA", "PYPL", "VZ",
+    "JNJ", "V", "UNH", "PG", "HD", "BAC", "DIS", "MA", "PYPL", "VZ", "MSTR",
     "ADBE", "NFLX", "INTC", "CMCSA", "PFE", "KO", "PEP", "T", "XOM", "CSCO",
     "ABT", "MRK", "NKE", "CRM", "LLY", "TMO", "AVGO", "WMT", "ACN", "COST",
     "DHR", "NEE", "MCD", "MDT", "WFC", "HON", "UNP", "LIN", "TXN", "AMGN",
@@ -41,3 +41,8 @@ TICKERS = [
     "HBAN", "PFG", "MTB", "CFG", "GPC", "EVRG", "SLG", "SBAC", "STT", "FRC"
 ]
 
+
+TEST_TICKERS = [
+    "AAPL", "MSFT", "AMZN", "GOOGL", "GOOG", "FB", "TSLA", "BRK.B", "NVDA", "JPM",
+    "JNJ", "V", "UNH", "PG", "HD", "BAC", "DIS", "MA", "PYPL", "VZ", "MSTR"
+]
